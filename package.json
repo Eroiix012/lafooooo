@@ -39,7 +39,7 @@
     "dotenv": "^16.0.0",
     "eh-url": "^2.0.0",
     "fluent-ffmpeg": "^2.1.2",
-    "google-sr": "^3.2.1",
+    "google-sr": "^4.1.0",
     "kurzer-url": "^4.0.0",
     "md5": "^2.3.0",
     "network-speed": "^2.1.1",
